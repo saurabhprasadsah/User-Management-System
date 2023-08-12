@@ -1,5 +1,3 @@
 # User-Management-System
-Using nodejs-Express-Hbs
-
-
--> mysql
+# Using nodejs-Express-Hbs
+# MySql DataBase
